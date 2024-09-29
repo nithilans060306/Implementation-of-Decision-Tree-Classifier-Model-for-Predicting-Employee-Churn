@@ -19,8 +19,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Visalan H
-RegisterNumber:  212223240183
+Developed by: Nithilan S
+RegisterNumber:  212223240108
 ```
 ```
 import pandas as pd
